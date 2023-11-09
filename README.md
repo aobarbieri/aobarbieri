@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Amanda </h1>
-<h2 align="center">I'm a full stack software engineer based out of Golden, Colorado</h2> 
+
+<h3 align="center">I'm a full stack software engineer based out of Golden, Colorado</h3> 
 
 Tech Stack:
 
