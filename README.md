@@ -2,6 +2,14 @@
 
 <h3 align="center">I'm a full stack software developer in New York City.</h3> 
 
+
+Get in touch:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-mitzian/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandamitzian@gmail.com)
+
+
+
 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,10 +28,4 @@ Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Get in touch:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-mitzian/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandamitzian@gmail.com)
-
-⚡ When I am not coding, you can find me at the gym 🏋️‍♀️ or enjoying the outdoors with my two doxies 🐶
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aobarbieri&show_icons=true&locale=en&layout=compact" alt="aobarbieri stats" /></p>
