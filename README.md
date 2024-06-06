@@ -1,17 +1,13 @@
-<h1 align="center"> 👋 Hi, I'm Amanda </h1>
+### 👋 Hi there, I'm Amanda, a passionate
 
-<h3 align="center">I'm a full stack software developer in New York City.</h3> 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78AC0&vCenter=true&random=false&width=378&height=25&lines=Software+Engineer;Frontend+Developer;Customer+Success+Advocate;Certified+Scrum+Master)
+### based in NYC.
 
-
-Get in touch:
-
+#### Get in touch
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-mitzian/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandamitzian@gmail.com)
 
-
-
-Tech Stack:
-
+#### Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,4 +24,3 @@ Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aobarbieri&show_icons=true&locale=en&layout=compact" alt="aobarbieri stats" /></p>
