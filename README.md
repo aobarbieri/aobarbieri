@@ -1,7 +1,8 @@
 ### Hi there, I'm Amanda, a NYC-based
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78AC0&vCenter=true&random=false&width=378&height=25&lines=Software+Engineer;Frontend+Developer;Customer+Success+Advocate;Certified+Scrum+Master)
 
-### Get in touch
+---
+
 [LinkedIn](https://www.linkedin.com/in/amanda-mitzian/) ✨ amandamitzian@gmail.com
 
 ### Tech Stack
