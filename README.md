@@ -6,6 +6,7 @@
 [LinkedIn](https://www.linkedin.com/in/amanda-mitzian/) ✨ amandamitzian@gmail.com
 
 ### Tech Stack
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?logo=datadog&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
